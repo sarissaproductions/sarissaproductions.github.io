@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 134 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g id="Trophee-Nyumbani--Red--Github-Template.png" serif:id="Trophee Nyumbani (Red) Github Template.png" transform="matrix(0.05,0,0,0.05,35,14)">
+    <g>
+        <g>
+            <path id="_x30_1_" serif:id="_x30_1" d="M98.9,15.3L105,24.2L98.7,33.5L105.3,33.5L108,28.9L110.8,33.5L117.4,33.5L111.1,24.2L117.2,15.3L110.6,15.3L108.1,19.7L105.6,15.3L98.9,15.3ZM16.3,15.3L16.3,22.8L24.5,22.8L24.5,44.7L33.6,44.7L33.6,22.9L41.8,22.9L41.8,15.4L16.3,15.4L16.3,15.3ZM43.3,15.3L43.3,44.7L68.1,44.7L68.1,37.2L52.4,37.2L52.4,33.5L68.1,33.5L68.1,26.5L52.4,26.5L52.4,22.8L68.1,22.8L68.1,15.3L43.3,15.3ZM69.6,15.2L69.6,44.7L82.7,44.7C93,44.7 97.7,39 97.7,29.9C97.7,22.5 94.2,15.2 84.4,15.2L69.6,15.2ZM78.7,22.9L81.6,22.9C88.2,22.9 88.7,28.1 88.7,29.9C88.7,32.7 87.9,37.2 82.2,37.2L78.7,37.2L78.7,22.9Z" style="fill:rgb(244,244,244);fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <g id="Trophee-Nyumbani--Red--Github-Template.png" serif:id="Trophee Nyumbani (Red) Github Template.png" transform="matrix(0.0597632,0,0,0.0597632,28.6016,10.8258)">
         <use xlink:href="#_Image1" x="0" y="0" width="1280px" height="640px"/>
     </g>
     <defs>
