@@ -504,6 +504,9 @@ img#top {
 	height: 315px;
 	width:100%;
 	clear: both;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 @media screen and (max-width: 959px) {
