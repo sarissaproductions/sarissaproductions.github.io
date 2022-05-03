@@ -3155,12 +3155,12 @@
 
 				.wrapper.featured > .inner > .image {
 					display: block;
-					width: 55em;
+					width: 48em;
 					/* 41em; original */
 				}
 
 					.wrapper.featured > .inner > .image img {
-						border-radius: 10%;
+						border-radius: 20%;
 						width: 100%;
 					}
 
