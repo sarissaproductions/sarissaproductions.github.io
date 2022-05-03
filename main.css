@@ -2858,7 +2858,7 @@
 
 		.spotlight .image {
 			margin: 0 0 0 2em;
-			width: 50%;
+			width: 75%;
 			-ms-flex: 1;
 		}
 
@@ -2868,7 +2868,7 @@
 
 		.spotlight .content {
 			margin: 0 2em 0 0;
-			width: 50%;
+			width: 75%;
 			-ms-flex: 1;
 		}
 
