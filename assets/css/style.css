@@ -414,7 +414,7 @@ img#top {
 	width: 100%;
 	position: relative;
 	padding: 100px 0 100px 0;
-	text-align: left;
+	text-align: justify;
 	z-index: 300;
 }
 
