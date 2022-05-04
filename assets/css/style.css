@@ -218,6 +218,7 @@ figcaption p {
 	vertical-align: middle;
 	position: relative;
 	width: 500px;
+	text-align: left justify;
 }
 
 figure:hover figcaption {
